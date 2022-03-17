@@ -1,12 +1,12 @@
 ## Mat Diak
 
-#### About me
-I am a starter software developer with background in fine art and photography. Until december 2021, I had run an online second-hand clothing [store on Depop.](depop.com/loosefreds)
+```About me```
+I am a starter software developer with background in fine art and photography. Until december 2021, I had run an online second-hand clothing [Loose Freds](https://depop.com/loosefreds) store on Depop.
 
-#### Career Change
+```Career Change```
 I want to be a part of a dynamic learning environment and take upon challenging projects in a team of highly-motivated people.
 
-#### Achievements
+```Achievements```
 In the last 4 months, I coded almost everyday, learnt lots about working in a team, grasped the the core concepts of programming and completed 3 group projects in a team.
 
 ## Skills acquired at Makers
@@ -25,12 +25,23 @@ In the last 4 months, I coded almost everyday, learnt lots about working in a te
   - followed the XP principles to establish an MVP and create domain, database, dataflow models
   - spent half of my time finding useful information and developed ability to read and process documentation
 
+```Technical```
+  - Javascript: ```React, Node, Express, Jest```
+  - Ruby: ```Ruby on Rails with Active Record, Sinatra, Rspec, Capybara```
+  - Python: ```Selenium```
+  - CSS: ```Bootstrap```
+  - Databases: ```MongoDB, Psql```
+  - Tools: ```Heroku, Netlify, Github Actions(CI/CD), Postman```
+  - IDE: ```VS Code```
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Timeframe |
 | ---------------------------- | ----------------- | ----------------- | --------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Tidbits-server](https://github.com/mat-diak/snacks-server) | rest API for Tidbits client | Express, Node, MongoDB  | 10 days |
+| [Tidbits-client](https://github.com/mat-diak/snacks-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT | 10 days |
+| [Faicebuk](https://github.com/mat-diak/Faicebuk) | social media app | Ruby on Rails, CSS, Bootstrap, Devise | 10 days
+| [MakersBnB](https://github.com/mat-diak/MakersBnb) | room renting app | Ruby with Sinatra, CSS | 5 days
 
 ## Work Experience
 
