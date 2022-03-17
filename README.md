@@ -35,6 +35,11 @@ In the last 4 months, I coded almost everyday, learnt lots about working in a te
   - Databases: **MongoDB, Psql**
   - Tools: **Heroku, Netlify, Github Actions(CI/CD), Postman**
 
+## Other skills
+
+  ```advanced``` Adobe Lightroom, Bridge, Embird machine embroidery design software
+  ```intermediate``` Adobe Photoshop, Premiere Pro, Illustrator
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Timeframe |
@@ -57,6 +62,7 @@ Founder, self-employed
 
 **Product photographer, self-employed**
 
+- developed batch-editing workflows in Adobe Lightroom and Bridge
 - worked closely with clients to produce high-quality product images according to their brief
 - understood the needs of the client and proposed best possible solution given a budget and timeframe
 - communicated creative ideas to clients by creating mood boards and using examples to clearly understand their expectations
