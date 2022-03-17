@@ -1,11 +1,18 @@
-## Your Name
+## Mat Diak
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+#### About me
+I am a starter software developer with background in fine art and photography. Until december 2021, I had run an online second-hand clothing [store on Depop.](depop.com/loosefreds)
+
+#### Career Change
+I want to be a part of a dynamic learning environment and take upon challenging projects in a team of highly-motivated people.
+
+#### Achievements
+In the last 4 months, I coded almost everyday, learnt lots about working in a team, grasped the the core concepts of programming and completed 3 group projects in a team.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
+| Name                         | Description       | Tech/tools        | Timeframe |
+| ---------------------------- | ----------------- | ----------------- | --------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
