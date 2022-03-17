@@ -9,6 +9,22 @@ I want to be a part of a dynamic learning environment and take upon challenging 
 #### Achievements
 In the last 4 months, I coded almost everyday, learnt lots about working in a team, grasped the the core concepts of programming and completed 3 group projects in a team.
 
+## Skills acquired at Makers
+```Teamwork```
+  - developed excellent communication skills, working in teams and pair programming everyday
+  - learnt to clearly express complex technical concepts and learnt to formulate clear concise thoughts
+  - due to working remotely, developed efficient collaboration workflows using Zoom and VS Code liveshare
+
+```Process```
+  - followed TDD, BDD processes to produce high-quality, easy-to-change code with high test coverage, learnt mocking practices to omit testing irrelevant dependecies
+  - acquired excellent debugging skills through keeping it cool and using REPLs, browser console and command line
+  - used git for version control, followed red-green-refactor-green workflow to produce DRY and SOLID code
+
+```Planning```
+  - simulated Agile environemnt in group projects, started each day with standups and brainstorm sessions using Figma boards
+  - followed the XP principles to establish an MVP and create domain, database, dataflow models
+  - spent half of my time finding useful information and developed ability to read and process documentation
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Timeframe |
