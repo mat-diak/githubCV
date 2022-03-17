@@ -54,11 +54,29 @@ In the last 4 months, I coded almost everyday, learnt lots about working in a te
 **[Loose Freds](https://depop.com/loosefreds) - handpicked second-hand clothing store**  
 Founder, self-employed
 
+**General**
 - managed all functions of business operations, from product acquisition to sales
-- in 2018, generated £40,000 in online and market sales
+- in 2018, generated £40,000 revenue in online and market sales
 - in 2020, tripled online revenue to £60,000, with profit margins around 50%
 - created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and becoming a Depop featured top-seller
 - photographed products and developed efficient image-processing workflows, maintaining high-quality and time-efficient content
+
+**Product design**
+- designed and introduced a line of Loose Freds products
+  - second-hand clothing remade with retro embroidery
+  - new t-shirts and fleeces with in-house Loose Freds embroidery
+- acquired an embroidery machine, operated Embird embroidery design software and produced the orders on demand
+
+***Depop App (P2P social shopping app)***
+- created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and becoming a Depop featured top-seller
+- Photographing products. Created efficient Bridge and Photoshop workflows for batch editing images maintaining high-quality and time-efficient content
+
+**Market Clothes Sales in Oxford**
+- Became a recognised brand in Oxford. Built upon knowledge of local trends and products especially popular amongst 16-23 year olds and filled in Oxford’s market gap for second-hand clothing
+- Organised monthly sales at different Oxford’s venues and Oxford Brookes University, established strong ties with customers and became a popular brand amongst students
+- Led organic and paid Facebook campaigns to promote the events, offered discounts to customers to encourage organic marketing, created an efficient way of reaching over 1,500 students with Loose Freds’ leaflets
+- Researched and implemented different pricing and upselling methods to arrive at the most profitable model
+
 
 **Product photographer, self-employed**
 
