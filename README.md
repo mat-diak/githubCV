@@ -22,17 +22,16 @@ In the last 4 months, I coded almost everyday, learnt lots about working in a te
 
 ```Planning```
   - simulated Agile environemnt in group projects, started each day with standups and brainstorm sessions using Figma boards
-  - followed the XP principles to establish an MVP and create domain, database, dataflow models
-  - spent half of my time finding useful information and developed ability to read and process documentation
+  - followed the XP principles to establish an MVP, create domain, database and dataflow models
+  - spent half of my time searching for useful information and developed ability to read and process documentation
 
 ```Technical```
-  - Javascript: ```React, Node, Express, Jest```
-  - Ruby: ```Ruby on Rails with Active Record, Sinatra, Rspec, Capybara```
-  - Python: ```Selenium```
-  - CSS: ```Bootstrap```
-  - Databases: ```MongoDB, Psql```
-  - Tools: ```Heroku, Netlify, Github Actions(CI/CD), Postman```
-  - IDE: ```VS Code```
+  - Javascript: **React, Node, Express, Jest**
+  - Ruby: **Ruby on Rails with Active Record, Sinatra, Rspec, Capybara**
+  - Python: **Selenium**
+  - CSS: **Bootstrap**
+  - Databases: **MongoDB, Psql**
+  - Tools: **Heroku, Netlify, Github Actions(CI/CD), Postman**
 
 ## Projects
 
@@ -45,67 +44,36 @@ In the last 4 months, I coded almost everyday, learnt lots about working in a te
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**[Loose Freds](https://depop.com/loosefreds) - handpicked second-hand clothing store**  
+Founder, self-employed
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- managed all functions of business operations, from product acquisition to sales
+- in 2018, generated £40,000 in online and market sales
+- in 2020, tripled online revenue to £60,000, with profit margins around 50%
+- created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and becoming a Depop featured top-seller
+- photographed products and developed efficient image-processing workflows, maintaining high-quality and time-efficient content
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Product photographer, self-employed**
 
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- worked closely with clients to produce high-quality product images according to their brief
+- understood the needs of the client and proposed best possible solution given a budget and timeframe
+- communicated creative ideas to clients by creating mood boards and using examples to clearly understand their expectations
+- accounted for possible issues in delivery and remained flexible to client’s needs and circumstances
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy (Dec 2021 - Mar 2022)**
+- completed highly selective 12 week intensive coding bootcamp as part of government funded Skills Bootcamp
 
-#### Your University / College (start_date to end_date)
+**University of Oxford, Fine Art (2016 - 2019)**
+- Grade: 2.1 (67% average)
+- wrote thesis exploring 'The dynamic between a viewer and an art object'
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Merchiston Castle School, Edinburgh (2013 - 2015)**
+- HMC Scholarship (~£63,000) for students from Central and Eastern Europe to attend an UK boarding school
+- A-levels: Maths(A), Art&Design(A*), Religious Studies(A)
+- AS-levels: Further Maths(A)
 
-#### Any other qualifications
+## Interests
 
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Houseplants, Bouldering, DIY
