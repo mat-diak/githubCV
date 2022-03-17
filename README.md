@@ -1,13 +1,15 @@
 ## Mat Diak
+matt.diak@gmail.com  
+London
 
-```About me```
+```About me```  
 I am a starter software developer with background in fine art and photography. Until december 2021, I had run an online second-hand clothing [Loose Freds](https://depop.com/loosefreds) store on Depop.
 
-```Career Change```
+```Career Change```  
 I want to be a part of a dynamic learning environment and take upon challenging projects in a team of highly-motivated people.
 
-```Achievements```
-In the last 4 months, I coded almost everyday, learnt lots about working in a team, grasped the the core concepts of programming and completed 3 group projects in a team.
+```Achievements```  
+In the last 4 months, I coded almost everyday, learnt lots about working in a team, grasped the the core concepts of programming and produced 3 group projects using a multitude of new technologies.
 
 ## Skills acquired at Makers
 ```Teamwork```
