@@ -37,7 +37,7 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 ### Other skills
 
-  ```advanced``` Adobe Lightroom, Bridge, Embird machine embroidery design software
+  ```advanced``` Adobe Lightroom, Bridge, Embird machine embroidery design software.  
   ```intermediate``` Adobe Photoshop, Premiere Pro, Illustrator
 
 ## Projects
