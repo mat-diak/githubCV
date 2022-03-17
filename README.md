@@ -11,7 +11,7 @@ I want to be a part of a dynamic learning environment and take upon challenging 
 ```Achievements```  
 In the last 4 months, I coded almost every day, learnt a lot about working in a team, grasped the core concepts of programming and produced 3 group projects using a multitude of new technologies.
 
-Skills acquired at Makers
+## Skills acquired at Makers. 
 ```Teamwork```
   - developed excellent communication skills, worked in teams and pair programming every day
   - learnt to clearly express complex technical concepts and learnt to formulate clear concise thoughts
@@ -35,7 +35,7 @@ Skills acquired at Makers
   - Databases: ***MongoDB, Psql***
   - Tools: ***Heroku, Netlify, Github Actions(CI/CD), Postman***
 
-## Other skills
+### Other skills
 
   ```advanced``` Adobe Lightroom, Bridge, Embird machine embroidery design software
   ```intermediate``` Adobe Photoshop, Premiere Pro, Illustrator
