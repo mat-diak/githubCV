@@ -13,19 +13,25 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 ## Skills acquired at Makers. 
 ```Teamwork```
-  - developed excellent communication skills, worked in teams and pair programming every day
-  - learnt to clearly express complex technical concepts and learnt to formulate clear concise thoughts
-  - due to working remotely, developed efficient collaboration workflows using Zoom and VS Code liveshare
+  - Developed excellent communication skills, worked in teams or pair programmed every day
+  - Learnt to clearly express and visualise complex technical and abstract concepts with speech and diagrams
+  - Due to working remotely, developed efficient collaboration workflows using Zoom and VS Code liveshare
+  - Advocated an open and supportive environment that embraces feedback and promotes diversity
+
 
 ```Process```
-  - followed TDD, BDD processes to produce high-quality, easy-to-change code with high test coverage, learnt mocking practices to omit testing irrelevant dependencies
-  - acquired excellent debugging skills through keeping it cool and using REPLs, browser console and command line
-  - used git for version control, followed red-green-refactor-green workflow to produce DRY and SOLID code
+  - Followed TDD, BDD processes to produce high-quality, easy-to-change code with high test coverage
+  - Practised OOP and learnt mocking practices to avoid code dependency and improve test precision
+  - Acquired excellent debugging skills through keeping it cool, reading the errors, using REPLs and the console
+  - Used git for version control, followed red-green-refactor-green workflow to produce DRY and SOLID code
+
 
 ```Planning```
-  - simulated Agile environment in group projects, started each day with standups and brainstorm sessions using Figma boards
-  - followed the XP principles to establish an MVP and to create domain, database and dataflow models
-  - spent half of my time searching for useful information and developed the ability to read and process documentation
+  - Simulated Agile environment in group projects, held stand-ups and brainstorm sessions using Figma boards
+  - In projects, followed the XP principles to establish an MVP, domain, database and dataflow models
+  - Spent majority of my time searching for useful information and learnt how to effectively use documentation
+  - Presented solutions to the team, made decisions and took responsibility for them
+
 
 ```Technical```
   - Javascript: ***React, Node, Express, Jest***
@@ -37,8 +43,9 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 ### Other skills
 
-  ```advanced``` Adobe Lightroom, Bridge, Embird machine embroidery design software.  
+  ```advanced``` Adobe Lightroom, Bridge; Embird machine embroidery design software
   ```intermediate``` Adobe Photoshop, Premiere Pro, Illustrator
+  ```languages``` Polish(native), German (intermediate)
 
 ## Projects
 
@@ -51,40 +58,43 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 ## Work Experience
 
-### **[Loose Freds](https://depop.com/loosefreds)- handpicked second-hand clothing store**
+### **[Loose Freds](https://depop.com/loosefreds)- Loose Freds - sustainable second-hand and produced-on-demand clothing store, selling online and at markets**
 ***Founder, self-employed***
 
-*General*
-- managed all functions of business operations, from product acquisition to sales
-- in 2018, generated £40,000 revenue in online and market sales
-- in 2020, tripled online revenue to £60,000, with profit margins around 50%
-- created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and becoming a Depop featured top-seller
-- photographed products and developed efficient image-processing workflows, maintaining high-quality and time-efficient content
+*Business Management*
+  - Managed all functions of business operations, from product acquisition to sales
+  - In 2018, generated £40,000 revenue in online and market sales
+  - In 2020, tripled online revenue to £60,000, with profit margins exceeding 50%
 
-*Product design*
-- designed and introduced a line of Loose Freds products
+
+*Product design and management*
+  - Designed and introduced a line of Loose Freds products
   - second-hand clothing remade with retro embroidery
   - new t-shirts and fleeces with in-house Loose Freds embroidery
-- acquired an embroidery machine, operated Embird embroidery design software and produced the orders on demand
+  - Operated an embroidery machine, designed embroidery using Embird software
+  - Collected sales data and hand-picked products accordingly at wholesale stores in Poland
+  - Created a system how to safely buy products online from individuals in Poland and how to recognise fake pieces
+  - Researched and implemented different pricing and upselling methods to arrive at the most profitable model
+
 
 *Depop App (P2P social shopping app)*
-- created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and becoming a Depop featured top-seller
-- Photographing products. Created efficient Bridge and Photoshop workflows for batch editing images maintaining high-quality and time-efficient content
+  - Created engaging digital content and developed workflows bringing Depop store’s follower base to 38,000 and Becoming a Depop featured top-seller
+  - Photographed products and created efficient Bridge and Photoshop workflows for batch editing images maintaining high-quality and time-efficient content
+
 
 *Market Clothes Sales in Oxford*
-- Became a recognised brand in Oxford. Built upon knowledge of local trends and products especially popular amongst 16-23-year-olds and filled in Oxford’s market gap for second-hand clothing
-- Organised monthly sales at different Oxford venues and Oxford Brookes University, established strong ties with customers and became a popular brand amongst students
-- Led organic and paid Facebook campaigns to promote the events, offered discounts to customers to encourage organic marketing, created an efficient way of reaching over 1,500 students with Loose Freds’ leaflets
-- Researched and implemented different pricing and upselling methods to arrive at the most profitable model
-
+  - Became a recognised brand in Oxford. Built upon knowledge of local trends and products especially popular amongst 16-23-year-olds and filled in Oxford’s market gap for second-hand clothing
+  - Organised monthly sales at different Oxford venues and Oxford Brookes University, established strong ties with customers and became a popular brand amongst students
+  - Led organic and paid Facebook campaigns to promote the events, offered discounts to customers to encourage organic marketing, created an efficient way of reaching over 1,500 students with Loose Freds’ leaflets
 
 ### **Product photographer, self-employed**
 
-- developed batch-editing workflows in Adobe Lightroom and Bridge
-- worked closely with clients to produce high-quality product images according to their brief
-- understood the needs of the client and proposed the best possible solution given a budget and timeframe
-- communicated creative ideas to clients by creating mood boards and using examples to clearly understand their expectations
-- accounted for possible issues in delivery and remained flexible to the client’s needs and circumstances
+  - Developed batch-editing workflows in Adobe Lightroom and Bridge
+  - Worked closely with clients to produce high-quality product images according to their brief
+  - Understood the needs of the client and proposed the best possible solution given a budget and timeframe
+  - Communicated creative ideas to clients by creating mood boards and using examples to understand their expectations
+  - Accounted for possible issues in delivery and remained flexible to the client’s needs and circumstances
+
 
 ## Education
 
