@@ -3,13 +3,7 @@ matt.diak@gmail.com
 London
 
 ```About me```  
-I am a starter software developer with a background in fine art and photography. Until December 2021, I had run an online second-hand clothing business [Loose Freds](https://depop.com/loosefreds) on Depop.
-
-```Career Change```  
-I want to be a part of a dynamic learning environment and take upon challenging projects in a team of highly-motivated people.
-
-```Achievements```  
-In the last 4 months, I coded almost every day, learnt a lot about working in a team, grasped the core concepts of programming and produced 3 group projects using a multitude of new technologies.
+I am a software developer with a background in e-commerce, fine art and photography. I assume positive intent in people, take a productive failure approach to problem solving and stay proactive in projects. I started my second-hand clothing business with a goal to take responsibility and take pride in what I do. I decided to switch my career to do what I enjoyed most in the recent years. Software development allows me to be a part of a thriving environment and to work alongside a diverse team of inspiring individuals that share my goal of creating sustainable and pragmatic solutions that have a positive impact.
 
 ## Skills acquired at Makers. 
 ```Teamwork```
@@ -33,7 +27,7 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
   - Presented solutions to the team, made decisions and took responsibility for them
 
 
-```Technical```
+```Technologies```
   - Javascript: ***React, Node, Express, Jest***
   - Ruby: ***Ruby on Rails with Active Record, Sinatra, Rspec, Capybara***
   - Python: ***Selenium***
@@ -43,8 +37,7 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 ### Other skills
 
-  ```advanced``` Adobe Lightroom, Bridge; Embird machine embroidery design software
-  ```intermediate``` Adobe Photoshop, Premiere Pro, Illustrator
+  ```software``` Adobe Lightroom, Bridge, Photoshop, Premiere Pro, Illustrator, Embird machine embroidery design software
   ```languages``` Polish(native), German (intermediate)
 
 ## Projects
@@ -103,7 +96,6 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 **University of Oxford, Fine Art (2016 - 2019)**
 - Grade: 2.1 (67% average)
-- wrote a thesis exploring 'The dynamic between a viewer and an art object'
 
 **Merchiston Castle School, Edinburgh (2013 - 2015)**
 - HMC Scholarship (~£63,000) for students from Central and Eastern Europe to attend an UK boarding school
