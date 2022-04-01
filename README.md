@@ -51,8 +51,8 @@ In the last 4 months, I coded almost every day, learnt a lot about working in a 
 
 | Name                         | Description       | Tech/tools        | Timeframe |
 | ---------------------------- | ----------------- | ----------------- | --------- |
-| [Tidbits-server](https://github.com/mat-diak/snacks-server) | rest API for Tidbits client | Express, Node, MongoDB  | 10 days |
-| [Tidbits-client](https://github.com/mat-diak/snacks-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT | 10 days |
+| [Tidbits-server](https://github.com/mat-diak/tidbits-server) | rest API for Tidbits client | Express, Node, MongoDB  | 10 days |
+| [Tidbits-client](https://github.com/mat-diak/tidbits-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT | 10 days |
 | [Faicebuk](https://github.com/mat-diak/Faicebuk) | social media app | Ruby on Rails, CSS, Bootstrap, Devise | 10 days
 | [MakersBnB](https://github.com/mat-diak/MakersBnb) | room renting app | Ruby with Sinatra, CSS | 5 days
 
