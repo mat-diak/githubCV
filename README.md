@@ -15,7 +15,7 @@ React | Redux | styled-components (CSS)
 - Produced an MVP, in 2 weeks, according to requirements and wireframes
 - Implemented scoring and sorting algorithm for book suggestions, based on multiple chosen themes
 
-[Tidbits-client repo](https://github.com/mat-diak/tidbits-client), [Tidbits-server repo](https://github.com/mat-diak/tidbits-server)  
+Tidbits [client](https://github.com/mat-diak/tidbits-client), [server](https://github.com/mat-diak/tidbits-server)  
 Tidbits helps you to make new habits stick!  
 React | Express | MongoDB | Node  
 - Improved deployment time and ensured quality by implementing a CI/CD pipeline using Github actions
